@@ -1,0 +1,10 @@
+name = "Xorg_util_macros_jll"
+uuid = "7c09cfe3-afe2-5798-bcc9-d6b7fecfdca5"
+version = "1.19.2+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
